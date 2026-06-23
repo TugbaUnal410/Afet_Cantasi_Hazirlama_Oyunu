@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &488712202294530995
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_Name
+      value: HeyelanCanOpen
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.59761
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.49894
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1b7c55efbfe461142a7772bcc156bffb, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5280866636592479495}
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1002267224119128826}
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2345142026106156352}
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7769793011932834850}
+  m_SourcePrefab: {fileID: 100100000, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+--- !u!1 &488712202294629649 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100002, guid: 9d8ef286ace3a794685b41618ca60344, type: 3}
+  m_PrefabInstance: {fileID: 488712202294530995}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5280866636592479495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 488712202294629649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d28a6a8a548b6c47b5c7d40a821c02f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemType
+  isCorrectItem: 1
+--- !u!136 &1002267224119128826
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 488712202294629649}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.048115075
+  m_Height: 0.18175307
+  m_Direction: 1
+  m_Center: {x: 0.000000033527613, y: 0.09087652, z: -0.000000009313226}
+--- !u!114 &2345142026106156352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 488712202294629649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e852579331cccf4aacc6bd128e4be10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EsyaHareket
+  speed: 6
+--- !u!114 &-7769793011932834850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 488712202294629649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dfbf9e2260197943a2a5cf799a5f427, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HeyelanItemCollect
+  warningMessage: 
+  successMessage: "Konserve yiyecekler acil durumlarda besin ihtiyac\u0131n\u0131
+    kar\u015F\u0131lar."
+  isCorrectItem: 1

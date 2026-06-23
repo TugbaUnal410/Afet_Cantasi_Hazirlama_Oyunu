@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5060396635645339812
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_Name
+      value: SelMap
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.59761
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.49894
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: aebbe2fa392114f41aa15ea45f2dd031, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2734102385906769757}
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3743374780275627816}
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -6643730206593092887}
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7061512178790421646}
+  m_SourcePrefab: {fileID: 100100000, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+--- !u!1 &5060396635645373958 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100002, guid: 23a3f04005cdc14479f30000f3fbeca7, type: 3}
+  m_PrefabInstance: {fileID: 5060396635645339812}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2734102385906769757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5060396635645373958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d28a6a8a548b6c47b5c7d40a821c02f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemType
+  isCorrectItem: 1
+--- !u!65 &3743374780275627816
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5060396635645373958}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.30000004, y: 0.025291827, z: 0.20924981}
+  m_Center: {x: 0.000000029802322, y: 0.012645785, z: 0}
+--- !u!114 &-6643730206593092887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5060396635645373958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e852579331cccf4aacc6bd128e4be10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EsyaHareket
+  speed: 6
+--- !u!114 &-7061512178790421646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5060396635645373958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19ca70d58c9616c479c5d7f53afe27b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SelItemCollect
+  warningMessage: 
+  successMessage: "Harita afet sonras\u0131 toplanma alanlar\u0131n\u0131 g\xF6rmek
+    i\xE7in faydalo olabilir."
+  isCorrectItem: 1
